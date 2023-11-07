@@ -1,0 +1,1 @@
+This file is created to store all the major commits in the release for the November month.
